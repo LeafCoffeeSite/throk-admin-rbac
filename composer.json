@@ -1,0 +1,16 @@
+{
+    "name": "leafcoffee/throk-admin-rbac",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leafcoffee\\ThrokAdminRbac\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ares",
+            "email": "814940657@qq.com"
+        }
+    ],
+    "require": {}
+}
