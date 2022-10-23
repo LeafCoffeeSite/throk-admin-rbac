@@ -5,6 +5,6 @@ namespace Leafcoffee\ThrokAdminRbac\Services;
 class ThrokAdminRbacService
 {
     public function test(){
-        echo "test";
+        echo "test1";
     }
 }
